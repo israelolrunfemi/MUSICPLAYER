@@ -191,7 +191,7 @@ body{
   display: flex;
   align-items: center;
   font-size: 19px;
-  color: #4d5562;
+  color: #f0f0f0;
 }
 .header .row i{
   cursor: default;
@@ -201,7 +201,7 @@ body{
 }
 .header #close{
   font-size: 22px;
-  color: #4d5562;
+  color: #E5E5E5;
 }
 .music-list ul{
   margin: 10px 0;
